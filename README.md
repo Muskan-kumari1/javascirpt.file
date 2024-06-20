@@ -1,1 +1,1 @@
-# javascirpt.file
+# javascript.file
